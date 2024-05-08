@@ -1,0 +1,18 @@
+Assignment 3
+
+
+ifconfig
+
+
+echo 'I am Groot' > assn3.txt
+
+
+scp assn3.txt vagrant@10.0.2.15:/home/vagrant
+
+
+
+Assignment 4
+
+
+sudo ifconfig eth0 10.0.2.69 netmask 255.255.255.0
+

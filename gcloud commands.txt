@@ -1,0 +1,10 @@
+gcloud init
+
+
+
+cmd> py google-cloud-sdk\bin\dev_appserver.py <path to the directory where application reside>
+
+
+
+
+Open the web browser and type  http://localhost:8000
